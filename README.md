@@ -1,1 +1,1 @@
-alx-system_engineering-devops
+repository for projects in alx software engineering course
